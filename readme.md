@@ -43,3 +43,7 @@ These can be adjusted based on your lighting or image.
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+## Author
+Disha / https://github.com/dishaaa5
+
